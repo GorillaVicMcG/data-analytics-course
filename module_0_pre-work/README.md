@@ -1,3 +1,4 @@
+practice
 # Prep Work - Complete before starting Module 1 
 
 ![Copy of Data Analytics Week 1 1 - Welcome](https://github.com/user-attachments/assets/90efccdc-4543-4a29-ba0b-a91642ba3afd)
