@@ -5,11 +5,11 @@ practice
 
 Successfully prepare for the Tech Moms' 2.0 Data Analytics Course by completing this section before Module 1. It includes orientation videos & your first assignments. 
 
-- [ ] Attend or watch Tech Moms 2.0 Data Analytics Course Orientation [slides](https://docs.google.com/presentation/d/1ttR8RHF_bvDvXxFFcWyrDF-R8yrwz2Nv7C52DkT7wmA/edit#slide=id.g2f12d79c799_0_94) 
+- [*] Attend or watch Tech Moms 2.0 Data Analytics Course Orientation [slides](https://docs.google.com/presentation/d/1ttR8RHF_bvDvXxFFcWyrDF-R8yrwz2Nv7C52DkT7wmA/edit#slide=id.g2f12d79c799_0_94) 
 
 ## Prep Work Assignments
 
-- [ ] Assignment #1: Create your own data analytics resources repo (see orientation video/slides)
+- [*] Assignment #1: Create your own data analytics resources repo (see orientation video/slides)
 
 ## Bonus
 
